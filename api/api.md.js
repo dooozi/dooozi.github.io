@@ -1,0 +1,1 @@
+webpackJsonp([3,4],{297:function(e,i){e.exports={content:["article",["p","The second article which is posted by BiSheng."],["hr"],["p","Good bye! api md"]],meta:{title:"Good bye!",publishDate:"2015-05-05T00:00:00.000Z",filename:"api/api.md"}}}});
