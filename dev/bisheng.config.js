@@ -22,5 +22,6 @@ module.exports = {
         hideBisheng: true,
         // github: 'https://github.com/benjycui/bisheng'
     },
+    entryName: 'doozi',
     root: '/'
 };
