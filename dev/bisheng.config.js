@@ -4,6 +4,7 @@ module.exports = {
         './article', './api'
     ],
     theme: './_theme',
+    htmlTemplate: './_theme/template.html',
     themeConfig: {
         home: '/',
         sitename: 'SDK',
